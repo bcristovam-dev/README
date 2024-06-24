@@ -28,7 +28,7 @@
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
 
 
-##
+---
 
 ### 🏆 GitHub Profile Trophy
 
