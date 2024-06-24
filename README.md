@@ -33,7 +33,7 @@
 
 ---
 
-### 🏆 GitHub Profile Trophy
+### 🏆 Troféus do GitHub
 
 <p align="center">
   <a
