@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-> PERFIL EM CONSTRUÇÃO
-
 ## Sobre mim
   - 🌱 Aprendendo mais sobre C# e seus Frameworks, Arquitetura de Softwares, Clean Code, SoftSkills.
 
@@ -33,7 +30,7 @@
 
 ---
 
-### 🏆 Troféus do GitHub
+### 🏆 Troféus - GitHub
 
 <p align="center">
   <a
@@ -59,3 +56,8 @@
     alt="Número de visitantes no perfil"
   />
 </p>
+
+---
+
+> [!IMPORTANT]
+PERFIL EM CONSTRUÇÃO
