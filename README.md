@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> PERFIL EM CONSTRUÇÃO
+
 ## Sobre mim
   - 🌱 Aprendendo mais sobre C# e seus Frameworks, Arquitetura de Softwares, Clean Code, SoftSkills.
 
@@ -27,8 +30,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
 
-> [!IMPORTANT]
-> PERFIL EM CONSTRUÇÃO
+
 ---
 
 ### 🏆 GitHub Profile Trophy
