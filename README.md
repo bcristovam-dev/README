@@ -11,3 +11,6 @@
 
 ## Sistema Operacional
 ![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
+
+## Ferramenta de Desenvolvimento
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
