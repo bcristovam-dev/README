@@ -1,5 +1,5 @@
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Unicsul.
+- 💼 Trabalhando como Análista de Sistemas Jr - Projetos .
+- 🌱 Aprendendo mais sobre C# e seus Frameworks, Arquitetura de Softwares, Clean Code, SoftSkills.
