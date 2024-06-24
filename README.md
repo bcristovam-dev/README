@@ -8,3 +8,6 @@
 ![Microsoft Azure Devops](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![GIT](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+
+## Sistema Operacional
+![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)
