@@ -9,17 +9,21 @@ Atualmente, meu foco está em otimizar processos corporativos através de dashbo
 ### 🛠️ Tech Stack
 
 **Backend & Integrações**
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Data & Analytics**
+
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-Reporting-blue?style=for-the-badge)
 
 *Foco em: Query Optimization, JSON Parsing, Stored Procedures, Jobs e Reporting Services.*
 
+
 **Frontend & Design**
+
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
