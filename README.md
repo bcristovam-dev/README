@@ -16,6 +16,7 @@ Atualmente, meu foco está em otimizar processos corporativos através de dashbo
 **Data & Analytics**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-Reporting-blue?style=for-the-badge)
+
 *Foco em: Query Optimization, JSON Parsing, Stored Procedures, Jobs e Reporting Services.*
 
 **Frontend & Design**
@@ -53,5 +54,4 @@ Projeto pessoal de um gerenciador de tarefas.
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Seu Link do LinkedIn Aqui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryan@creativepro.com.br)
